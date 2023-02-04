@@ -4,5 +4,5 @@
   tasks:
   - name: create file
     file:
-      path: /home/ubntu/testfile
+      path: /home/ubuntu/testfile
       state: touch
